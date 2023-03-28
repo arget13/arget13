@@ -5,5 +5,5 @@
 </a>
 <br/>
 <a href="https://twitter.com/intent/follow?screen_name=arget1313">
-  <img src="https://img.shields.io/twitter/follow/arget1313?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
+  <img src="https://img.shields.io/twitter/follow/arget1313?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=231333" />
 </a>
