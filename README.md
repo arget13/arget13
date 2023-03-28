@@ -8,4 +8,4 @@
   <img src="https://img.shields.io/twitter/follow/arget1313?style=for-the-badge&logo=twitter&&labelColor=231333&color=382A47" />
 </a>
 
-I also almost got a patch into the glibc...
+This may not be much, so please note that I also (almost) got a [patch](https://sourceware.org/bugzilla/show_bug.cgi?id=29864) into the glibc XD
